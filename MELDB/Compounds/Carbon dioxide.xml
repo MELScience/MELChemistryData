@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>314105dd-3b23-47b2-9aa2-084790ddb886</guid>
+  <name>Carbon dioxide</name>
+  <formula>CO&lt;sub&gt;2&lt;/sub&gt;</formula>
+  <tags>
+    <string>CO2</string>
+  </tags>
+  <defaultView>BALLS</defaultView>
+  <particleGuids>
+    <guid>462d6642-19e0-43e9-8673-17d209b99288</guid>
+  </particleGuids>
+  <particlesLayout />
+</CompoundInfo>

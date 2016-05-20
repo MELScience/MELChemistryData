@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>addd7be4-c161-4f84-9320-1e3ab4b23289</guid>
+  <name>Hydrochloric acid</name>
+  <formula>HCl</formula>
+  <tags>
+    <string>HCl</string>
+  </tags>
+  <defaultView>BALLS</defaultView>
+  <particleGuids>
+    <guid>4cdbaad9-9900-443b-a567-8e6178080048</guid>
+  </particleGuids>
+  <particlesLayout />
+</CompoundInfo>

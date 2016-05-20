@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>69e8e87c-c1a1-4227-9d6b-b4116b846ade</guid>
+  <name>Nitric acid</name>
+  <formula>HNO&lt;sub&gt;3&lt;/sub&gt;</formula>
+  <tags>
+    <string>HNO3</string>
+  </tags>
+  <defaultView>BALLS</defaultView>
+  <particleGuids>
+    <guid>c309db4b-ebab-4b3c-966b-58effec6a9e3</guid>
+  </particleGuids>
+  <particlesLayout />
+</CompoundInfo>

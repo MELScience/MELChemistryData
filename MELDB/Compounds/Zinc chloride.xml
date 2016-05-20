@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>3b146b23-157e-4f18-84ee-9432edf107c7</guid>
+  <name>Zinc chloride</name>
+  <formula>ZnCl&lt;sub&gt;2&lt;/sub&gt;</formula>
+  <tags>
+    <string>ZnCl2</string>
+  </tags>
+  <defaultView>BALLS</defaultView>
+  <particleGuids>
+    <guid>2611ff55-ee72-425a-8855-ee45e5ec27c7</guid>
+    <guid>33cf4b98-4395-44c4-93fa-827d9fe6bd97</guid>
+    <guid>33cf4b98-4395-44c4-93fa-827d9fe6bd97</guid>
+  </particleGuids>
+</CompoundInfo>

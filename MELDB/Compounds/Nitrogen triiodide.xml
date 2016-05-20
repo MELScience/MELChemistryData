@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>7e682300-a51e-4b11-a0e9-2bf8343e569e</guid>
+  <name>Nitrogen triiodide</name>
+  <formula>NI&lt;sub&gt;3&lt;/sub&gt;</formula>
+  <tags>
+    <string>NI3</string>
+  </tags>
+  <defaultView>BALLS</defaultView>
+  <particleGuids>
+    <guid>bbf89443-f0f6-4e45-9aeb-d299499ae2eb</guid>
+  </particleGuids>
+  <particlesLayout />
+</CompoundInfo>

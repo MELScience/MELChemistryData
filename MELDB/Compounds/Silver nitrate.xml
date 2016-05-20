@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>7a5a7b32-a1d8-4b6a-aab6-e427973ab999</guid>
+  <name>Silver nitrate</name>
+  <formula>AgNO&lt;sub&gt;3&lt;/sub&gt;</formula>
+  <tags>
+    <string>AgNO3</string>
+  </tags>
+  <defaultView>BALLS</defaultView>
+  <particleGuids>
+    <guid>84d39e6f-8ee1-40ee-b7f7-3dfc0e09c58b</guid>
+    <guid>6785a548-1e0d-4a92-849b-cd60ba4a7244</guid>
+  </particleGuids>
+</CompoundInfo>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>d5317814-09ea-4087-8114-240afca9fd05</guid>
+  <name>Acetone</name>
+  <formula>CH&lt;sub&gt;3&lt;/sub&gt;COCH&lt;sub&gt;3&lt;/sub&gt;</formula>
+  <tags>
+    <string>CH3COCH3</string>
+  </tags>
+  <defaultView>BALLS</defaultView>
+  <particleGuids>
+    <guid>8cb84626-4be8-4cac-a67e-b65c54dd9d73</guid>
+  </particleGuids>
+  <particlesLayout />
+</CompoundInfo>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>9d721452-a672-4775-89f2-b3613e291df7</guid>
+  <name>Iron (III) chloride</name>
+  <formula>FeCl&lt;sub&gt;3&lt;/sub&gt;</formula>
+  <tags>
+    <string>FeCl3</string>
+  </tags>
+  <defaultView>BALLS</defaultView>
+  <particleGuids>
+    <guid>8d683ba9-c4bf-49e5-a67e-713f414403af</guid>
+    <guid>33cf4b98-4395-44c4-93fa-827d9fe6bd97</guid>
+    <guid>33cf4b98-4395-44c4-93fa-827d9fe6bd97</guid>
+    <guid>33cf4b98-4395-44c4-93fa-827d9fe6bd97</guid>
+  </particleGuids>
+</CompoundInfo>

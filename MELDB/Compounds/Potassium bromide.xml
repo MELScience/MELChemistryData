@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>eeba47c1-e4d1-4232-8f8d-affc31bd4775</guid>
+  <name>Potassium bromide</name>
+  <formula>KBr</formula>
+  <tags>
+    <string>KBr</string>
+  </tags>
+  <defaultView>BALLS</defaultView>
+  <particleGuids>
+    <guid>03474332-c28e-48c6-934f-7918a87cdb03</guid>
+    <guid>d567bbf3-abc4-4518-9cd0-0281bade2fd7</guid>
+  </particleGuids>
+</CompoundInfo>

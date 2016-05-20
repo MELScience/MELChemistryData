@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>deb43024-d417-4436-acc7-3bf341b10a12</guid>
+  <name>Calcium hydrogen carbonate</name>
+  <formula>Ca(HCO&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;</formula>
+  <tags>
+    <string>Ca(HCO3)2</string>
+  </tags>
+  <defaultView>BALLS</defaultView>
+  <particleGuids>
+    <guid>725ac75c-ab3c-4ab7-8b93-91844c60a248</guid>
+    <guid>6e75c112-f02c-4661-a48c-777fae3ab7a6</guid>
+    <guid>6e75c112-f02c-4661-a48c-777fae3ab7a6</guid>
+  </particleGuids>
+</CompoundInfo>

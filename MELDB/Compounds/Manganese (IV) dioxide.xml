@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>7b4377a1-1571-427f-be31-3ef3640ce11c</guid>
+  <name>Manganese (IV) dioxide</name>
+  <formula>MnO&lt;sub&gt;2&lt;/sub&gt;</formula>
+  <tags>
+    <string>MnO2</string>
+  </tags>
+  <defaultView>BALLS</defaultView>
+  <particleGuids>
+    <guid>462d6642-19e0-43e9-8673-17d309b99288</guid>
+  </particleGuids>
+  <particlesLayout />
+</CompoundInfo>

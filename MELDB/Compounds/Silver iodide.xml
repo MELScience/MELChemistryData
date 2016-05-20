@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>3c9b4a70-4fad-4e24-9181-c8ebfbead6f4</guid>
+  <name>Silver iodide</name>
+  <formula>AgI</formula>
+  <tags>
+    <string>AgI</string>
+  </tags>
+  <defaultView>BALLS</defaultView>
+  <particleGuids>
+    <guid>84d39e6f-8ee1-40ee-b7f7-3dfc0e09c58b</guid>
+    <guid>c9458ad5-83dc-46c6-9e5d-6dfed859e3cb</guid>
+  </particleGuids>
+</CompoundInfo>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>9c1ac9c4-11c9-441d-ab17-10cd6cd2dc15</guid>
+  <name>Ethanol</name>
+  <formula>C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;5&lt;/sub&gt;OH</formula>
+  <tags>
+    <string>C2H5OH</string>
+  </tags>
+  <defaultView>BALLS</defaultView>
+  <particleGuids>
+    <guid>34c491d6-b0a9-47de-ba61-5e80e9a2ca2c</guid>
+  </particleGuids>
+  <particlesLayout />
+</CompoundInfo>

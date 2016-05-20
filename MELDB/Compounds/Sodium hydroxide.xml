@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>1269bf07-d0e1-4089-8f12-ddd852a9e55b</guid>
+  <name>Sodium hydroxide</name>
+  <formula>NaOH</formula>
+  <tags>
+    <string>NaOH</string>
+  </tags>
+  <defaultView>BALLS</defaultView>
+  <particleGuids>
+    <guid>1c4b217d-67fd-4e56-91b5-4eec52810a43</guid>
+    <guid>eadc80e6-d9eb-495b-a4f1-d937cf1f99b1</guid>
+  </particleGuids>
+</CompoundInfo>

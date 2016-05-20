@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParticleInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>5ae18c06-7b6c-4a6c-a3b8-bb610d0eafa4</guid>
+  <name>Sn (2+)</name>
+  <formula>Sn</formula>
+  <tags />
+  <atoms>
+    <AtomInfo>
+      <atomNumber>1</atomNumber>
+      <atomCharge>2</atomCharge>
+      <element>Sn</element>
+      <position>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </position>
+      <flatPosition>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </flatPosition>
+    </AtomInfo>
+  </atoms>
+  <bonds />
+  <defaultView>BALLS</defaultView>
+  <charge>2</charge>
+  <hasFlatView>true</hasFlatView>
+  <isOrganic>false</isOrganic>
+  <rotationForFlatView>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </rotationForFlatView>
+  <hasCrystalView>false</hasCrystalView>
+</ParticleInfo>

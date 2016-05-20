@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>5aec1c4b-9ed4-4f56-9684-3bd993ff4157</guid>
+  <name>Ammonium iron (III) sulfate</name>
+  <formula>NH&lt;sub&gt;4&lt;/sub&gt;Fe(SO&lt;sub&gt;4&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;</formula>
+  <tags>
+    <string>NH4Fe(SO4)2</string>
+  </tags>
+  <defaultView>BALLS</defaultView>
+  <particleGuids>
+    <guid>8d683ba9-c4bf-49e5-a67e-713f414403af</guid>
+    <guid>6e66df29-5848-409c-ad91-be3455e60238</guid>
+    <guid>3bda91f3-931b-48d4-86df-b98ebbde69ca</guid>
+    <guid>6e66df29-5848-409c-ad91-be3455e60238</guid>
+  </particleGuids>
+</CompoundInfo>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>567f0dae-2113-4452-b125-80985803f47b</guid>
+  <name>Manganese (II) sulfate</name>
+  <formula>MnSO&lt;sub&gt;4&lt;/sub&gt;</formula>
+  <tags>
+    <string>MnSO4</string>
+  </tags>
+  <defaultView>BALLS</defaultView>
+  <particleGuids>
+    <guid>498c9269-d660-4183-a2f3-39edbb6e1afd</guid>
+    <guid>6e66df29-5848-409c-ad91-be3455e60238</guid>
+  </particleGuids>
+</CompoundInfo>

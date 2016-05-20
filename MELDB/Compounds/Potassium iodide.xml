@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>369c9f9a-8059-403e-b739-c4968dc58beb</guid>
+  <name>Potassium iodide</name>
+  <formula>KI</formula>
+  <tags>
+    <string>KI</string>
+  </tags> 
+  <defaultView>BALLS</defaultView>
+  <particleGuids>
+    <guid>03474332-c28e-48c6-934f-7918a87cdb03</guid>
+    <guid>c9458ad5-83dc-46c6-9e5d-6dfed859e3cb</guid>
+  </particleGuids>
+</CompoundInfo>

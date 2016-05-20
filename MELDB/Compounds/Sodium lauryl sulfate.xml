@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>50b97c72-2aa5-46e6-90ee-2b779ede8158</guid>
+  <name>Sodium lauryl sulfate</name>
+  <formula>C&lt;sub&gt;12&lt;/sub&gt;H&lt;sub&gt;25&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt;Na</formula>
+  <tags>
+    <string>C12H25SO4Na</string>
+  </tags>
+  <defaultView>BALLS</defaultView>
+  <particleGuids>
+    <guid>7473df87-2285-4adb-a784-93c05210aa35</guid>
+    <guid>1c4b217d-67fd-4e56-91b5-4eec52810a43</guid>
+  </particleGuids>
+</CompoundInfo>

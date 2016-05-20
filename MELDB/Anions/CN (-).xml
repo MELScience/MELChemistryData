@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParticleInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>c753751a-d583-4a56-a3aa-06ce5e200cec</guid>
+  <name>CN (-)</name>
+  <formula>CN</formula>
+  <tags />
+  <atoms>
+    <AtomInfo>
+      <atomNumber>1</atomNumber>
+      <atomCharge>0</atomCharge>
+      <element>N</element>
+      <position>
+        <x>0.5138769</x>
+        <y>0</y>
+        <z>0</z>
+      </position>
+      <flatPosition>
+        <x>0.461538553</x>
+        <y>0</y>
+        <z>0</z>
+      </flatPosition>
+    </AtomInfo>
+    <AtomInfo>
+      <atomNumber>2</atomNumber>
+      <atomCharge>-1</atomCharge>
+      <element>C</element>
+      <position>
+        <x>-0.599523067</x>
+        <y>0</y>
+        <z>0</z>
+      </position>
+      <flatPosition>
+        <x>-0.538461447</x>
+        <y>0</y>
+        <z>0</z>
+      </flatPosition>
+    </AtomInfo>
+  </atoms>
+  <bonds>
+    <BondInfo>
+      <atom1>1</atom1>
+      <atom2>2</atom2>
+      <bondType>TRIPLE</bondType>
+    </BondInfo>
+  </bonds>
+  <defaultView>BALLS</defaultView>
+  <charge>-1</charge>
+  <hasFlatView>true</hasFlatView>
+  <isOrganic>false</isOrganic>
+  <rotationForFlatView>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </rotationForFlatView>
+  <hasCrystalView>false</hasCrystalView>
+</ParticleInfo>

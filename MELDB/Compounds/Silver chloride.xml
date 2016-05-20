@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>38aff9df-75cc-4852-85af-3eb8b88ac07f</guid>
+  <name>Silver chloride</name>
+  <formula>AgCl</formula>
+  <tags>
+    <string>AgCl</string>
+  </tags>
+  <defaultView>BALLS</defaultView>
+  <particleGuids>
+    <guid>84d39e6f-8ee1-40ee-b7f7-3dfc0e09c58b</guid>
+    <guid>33cf4b98-4395-44c4-93fa-827d9fe6bd97</guid>
+  </particleGuids>
+</CompoundInfo>

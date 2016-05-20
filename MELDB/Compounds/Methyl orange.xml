@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>69214d75-f86e-4270-bef1-6b647172148e</guid>
+  <name>Methyl orange</name>
+  <formula>C&lt;sub&gt;14&lt;/sub&gt;H&lt;sub&gt;14&lt;/sub&gt;N&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt;SNa</formula>
+  <tags>
+    <string>C14H14N3O3SNa</string>
+  </tags>
+  <defaultView>BALLS</defaultView>
+  <charge>0</charge>
+  <particleGuids>
+    <guid>4e579a94-b1eb-45ab-ab12-b4ad474138ba</guid>
+    <guid>1c4b217d-67fd-4e56-91b5-4eec52810a43</guid>
+  </particleGuids>
+</CompoundInfo>

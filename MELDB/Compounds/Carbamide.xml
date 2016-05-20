@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>a7646e12-ce45-4b32-aef2-7aa52dc2dce9</guid>
+  <name>Carbamide</name>
+  <formula>NH&lt;sub&gt;2&lt;/sub&gt;CONH&lt;sub&gt;2&lt;/sub&gt;</formula>
+  <tags>
+    <string>NH2CONH2</string>
+  </tags>
+  <defaultView>BALLS</defaultView>
+  <particleGuids>
+    <guid>53aacf5e-d865-4179-8663-888ae5dcacae</guid>
+  </particleGuids>
+  <particlesLayout />
+</CompoundInfo>

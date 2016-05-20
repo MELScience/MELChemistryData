@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>041f3bc1-8fc0-4ae8-acf9-dc8de77521b1</guid>
+  <name>Ninhydrin</name>
+  <formula>C&lt;sub&gt;9&lt;/sub&gt;H&lt;sub&gt;6&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt;</formula>
+  <tags>
+    <string>C9H6O4</string>
+  </tags>
+  <defaultView>BALLS</defaultView>
+  <particleGuids>
+    <guid>93f629b5-8dec-4c94-8115-89132fe8f867</guid>
+  </particleGuids>
+  <particlesLayout />
+</CompoundInfo>

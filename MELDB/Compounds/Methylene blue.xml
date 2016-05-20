@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>b8517e98-9007-4a4c-94e7-854fac76473d</guid>
+  <name>Methylene blue</name>
+  <formula>C&lt;sub&gt;16&lt;/sub&gt;H&lt;sub&gt;18&lt;/sub&gt;N&lt;sub&gt;3&lt;/sub&gt;SCl</formula>
+  <tags>
+    <string>C16H18N3SCl</string>
+  </tags>  
+  <defaultView>BALLS</defaultView>
+  <particleGuids>
+    <guid>70d90976-1449-4af9-a3aa-b241afbb5e03</guid>
+    <guid>33cf4b98-4395-44c4-93fa-827d9fe6bd97</guid>
+  </particleGuids>
+</CompoundInfo>

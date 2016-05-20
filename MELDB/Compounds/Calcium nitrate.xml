@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>aa8dc2b2-b275-4206-b4ff-7e6e10552e71</guid>
+  <name>Calcium nitrate</name>
+  <formula>Ca(NO&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;</formula>
+  <tags>
+    <string>Ca(NO3)2</string>
+  </tags>
+  <defaultView>BALLS</defaultView>
+  <particleGuids>
+    <guid>725ac75c-ab3c-4ab7-8b93-91844c60a248</guid>
+    <guid>6785a548-1e0d-4a92-849b-cd60ba4a7244</guid>
+    <guid>6785a548-1e0d-4a92-849b-cd60ba4a7244</guid>
+  </particleGuids>
+</CompoundInfo>

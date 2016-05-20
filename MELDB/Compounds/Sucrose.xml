@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>aafb2479-954c-4d7f-9f14-560f9872d113</guid>
+  <name>Sucrose</name>
+  <formula>C&lt;sub&gt;12&lt;/sub&gt;H&lt;sub&gt;22&lt;/sub&gt;O&lt;sub&gt;11&lt;/sub&gt;</formula>
+  <tags>
+    <string>C12H22O11</string>
+  </tags>
+  <defaultView>BALLS</defaultView>
+  <particleGuids>
+    <guid>85822c16-3642-4b27-8397-f198eba518fd</guid>
+  </particleGuids>
+  <particlesLayout />
+</CompoundInfo>

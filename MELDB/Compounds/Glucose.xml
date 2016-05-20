@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>0daaa18f-0019-4efb-8985-d81425fb9aca</guid>
+  <name>Glucose</name>
+  <formula>C&lt;sub&gt;6&lt;/sub&gt;H&lt;sub&gt;12&lt;/sub&gt;O&lt;sub&gt;6&lt;/sub&gt;</formula>
+  <tags>
+    <string>C6H12O6</string>
+  </tags>
+  <defaultView>BALLS</defaultView>
+  <particleGuids>
+    <guid>bc9f79a6-b470-4cb6-9e90-d07a377d8a6f</guid>
+  </particleGuids>
+  <particlesLayout />
+</CompoundInfo>

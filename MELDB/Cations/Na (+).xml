@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParticleInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>1c4b217d-67fd-4e56-91b5-4eec52810a43</guid>
+  <name>Na (+)</name>
+  <formula>Na</formula>
+  <tags />
+  <atoms>
+    <AtomInfo>
+      <atomNumber>1</atomNumber>
+      <atomCharge>1</atomCharge>
+      <element>Na</element>
+      <position>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </position>
+      <flatPosition>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </flatPosition>
+    </AtomInfo>
+  </atoms>
+  <bonds />
+  <defaultView>BALLS</defaultView>
+  <charge>1</charge>
+  <hasFlatView>true</hasFlatView>
+  <isOrganic>false</isOrganic>
+  <rotationForFlatView>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </rotationForFlatView>
+  <hasCrystalView>false</hasCrystalView>
+</ParticleInfo>

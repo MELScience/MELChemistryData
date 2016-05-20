@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>8dee4554-01cc-4abe-a765-4599be2df1be</guid>
+  <name>Hydrogen peroxide</name>
+  <formula>H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt;</formula>
+  <tags>
+    <string>H2O2</string>
+  </tags>
+  <defaultView>BALLS</defaultView>
+  <particleGuids>
+    <guid>53042a71-a638-4558-932f-c0513bbcac6f</guid>
+  </particleGuids>
+  <particlesLayout />
+</CompoundInfo>

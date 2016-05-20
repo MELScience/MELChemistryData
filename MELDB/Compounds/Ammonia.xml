@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompoundInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>6dfddb39-baf9-4e57-b43e-fc8c6d6aa45e</guid>
+  <name>Ammonia</name>
+  <formula>NH&lt;sub&gt;3&lt;/sub&gt;</formula>
+  <tags>
+    <string>NH3</string>
+    <string>H3N</string>
+  </tags>
+  <defaultView>BALLS</defaultView>
+  <particleGuids>
+    <guid>3eccaa2f-1396-4272-9b50-f9aede4b6970</guid>
+  </particleGuids>
+  <particlesLayout />
+</CompoundInfo>
