@@ -62,10 +62,10 @@ code_id,name
 252,copper plate
 201,copper powder
 197,copper wire
-187,copper(II) sulfate
-3,copper(II) sulfate
+187,copper (II) sulfate
+3,copper (II) sulfate
 270,copper (II) sulfate
-12,copper(II) sulfate
+12,copper (II) sulfate
 114,iron bearings ball
 9,steel wool
 57,iron for disposal
@@ -73,8 +73,8 @@ code_id,name
 113,iron paper clip
 111,iron nail
 20,iron filings
-15,iron(II) sulfate
-66,iron(II) sulfate
+15,iron (II) sulfate
+66,iron (II) sulfate
 46,distilled water
 184,still water
 277,mineral water
@@ -86,15 +86,15 @@ code_id,name
 221,iodine
 30,iodine
 72,iodine
-144,potassium hexacyanoferrate(III)
-147,potassium hexacyanoferrate(III)
+144,potassium hexacyanoferrate (III)
+147,potassium hexacyanoferrate (III)
 71,potassium iodide
 219,potassium iodide
 92,potassium permanganate
 33,potassium permanganate
 189,magnesium
 249,magnesium
-39,manganese(IV) dioxide
+39,manganese (IV) dioxide
 95,sodium carbonate
 96,sodium carbonate
 34,disodium disulfite
@@ -120,8 +120,8 @@ code_id,name
 53,ammonium chloride
 45,ammonium chloride
 123,sulfur powder
-17,tin(II) chloride
-60,tin(II) chloride
+17,tin (II) chloride
+60,tin (II) chloride
 250,zinc wire
 58,zinc
 43,zinc powder
