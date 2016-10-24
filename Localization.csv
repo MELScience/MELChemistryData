@@ -7,8 +7,8 @@ Ammonium carbonate, Ammonium carbonate, Карбонат аммония
 Ammonium chloride, Ammonium chloride, Хлорид аммония
 Ammonium iron (III) sulfate, Ammonium iron (III) sulfate, Сульфат аммония-железа (III)
 Ammonium sodium hydrogen phosphate, Ammonium sodium hydrogen phosphate, Гидрофосфат аммония-натрия
-Benzene, Benzene, Бензол
 Ascorbic acid, Ascorbic acid, Аскорбиновая кислота
+Benzene, Benzene, Бензол
 Calcium carbonate, Calcium carbonate, Карбонат кальция
 Calcium chloride, Calcium chloride, Хлорид кальция
 Calcium hydrogen carbonate, Calcium hydrogen carbonate, Гидрокарбонат кальция
@@ -18,11 +18,13 @@ Calcium oxide, Calcium oxide, Оксид кальция
 Calcium sulfate, Calcium sulfate, Сульфат кальция
 Carbamide, Carbamide, Карбамид
 Carbon Dioxide, Carbon Dioxide, Диоксид углерода
+Carbon, Carbon, Углерод
 Chlorine, Chlorine, Хлор
 Citric acid, Citric acid, Лимонная кислота
 Copper (I) iodide, Copper (I) iodide, Иодид меди (I)
 Copper (II) oxide, Copper (II) oxide, Оксид меди (II)
 Copper (II) sulfate, Copper (II) sulfate, Сульфат меди (II)
+Copper, Copper, Медь
 Diethyl ether, Diethyl ether, Диэтиловый эфир
 Disodium disulfite, Disodium disulfite, Пиросульфит натрия
 Ethanol, Ethanol, Этанол
@@ -31,30 +33,32 @@ Fructose, Fructose, Фруктоза
 Glucose, Glucose, Глюкоза
 Glycerine, Glycerine, Глицерин
 Hydrochloric acid, Hydrochloric acid, Хлороводородная кислота
-Hydrogen, Hydrogen, Водород
 Hydrogen peroxide, Hydrogen peroxide, Перекись водорода
 Hydrogen sulfide, Hydrogen sulfide, Сероводород
-Iron (III) chloride, Iron (III) chloride, Хлорид железа (III)
+Hydrogen, Hydrogen, Водород
+Iodine, Iodine, Иод
 Iron (II) sulfate, Iron (II) sulfate, Сульфат железа (II)
 Iron (II) sulfide, Iron (II) sulfide, Сульфид железа (II)
-Iodine, Iodine, Иод
+Iron (III) chloride, Iron (III) chloride, Хлорид железа (III)
+Iron, Iron, Железо
 Lactose, Lactose, Лактоза
 Luminol, Luminol, Люминол
-Magnesium sulfate, Magnesium sulfate, Сульфат магния
 Magnesium oxide, Magnesium oxide, Оксид магния
-Manganese (IV) dioxide, Manganese (IV) dioxide, Диоксид марганца (IV)
+Magnesium sulfate, Magnesium sulfate, Сульфат магния
+Magnesium, Magnesium, Магний
 Manganese (II) sulfate, Manganese (II) sulfate, Сульфат марганца (II)
+Manganese (IV) dioxide, Manganese (IV) dioxide, Диоксид марганца (IV)
 Methyl orange, Methyl orange, Метиловый оранжевый
 Methylene blue, Methylene blue, Метиленовый синий
-Nitric acid, Nitric acid, Азотная кислота
 Ninhydrin, Ninhydrin, Нингидрин
+Nitric acid, Nitric acid, Азотная кислота
 Nitrogen triiodide, Nitrogen triiodide, Нитрид трииода
 Oxygen, Oxygen, Кислород
-Phenol, Phenol, Фенол
 Phenol red, Phenol red, Феноловый красный
+Phenol, Phenol, Фенол
 Potassium bromide, Potassium bromide, Бромид калия
-Potassium hexacyanoferrate (III), Potassium hexacyanoferrate (III), Гексацианоферрат (III) калия
 Potassium hexacyanoferrate (II), Potassium hexacyanoferrate (II), Гексацианоферрат (II) калия
+Potassium hexacyanoferrate (III), Potassium hexacyanoferrate (III), Гексацианоферрат (III) калия
 Potassium iodide, Potassium iodide, Иодид калия
 Potassium permanganate, Potassium permanganate, Перманганат калия
 Silicon dioxide, Silicon dioxide, Диоксид кремния
@@ -62,25 +66,27 @@ Silver chloride, Silver chloride, Хлорид серебра
 Silver iodide, Silver iodide, Иодид серебра
 Silver nitrate, Silver nitrate, Нитрат серебра
 Sodium acetate, Sodium acetate, Ацетат натрия
+Sodium carbonate, Sodium carbonate, Карбонат натрия
+Sodium chloride, Sodium chloride, Хлорид натрия
 Sodium hydrogen carbonate, Sodium hydrogen carbonate, Гидрокарбонат натрия
 Sodium hydrogen sulfate, Sodium hydrogen sulfate, Гидросульфат натрия
 Sodium hydroxide, Sodium hydroxide, Гидроксид натрия
-Sodium carbonate, Sodium carbonate, Карбонат натрия
-Sodium chloride, Sodium chloride, Хлорид натрия
 Sodium lauryl sulfate, Sodium lauryl sulfate, Лаурилсульфат натрия
-Sodium thiosulfate, Sodium thiosulfate, Тиосульфат натрия
 Sodium silicate, Sodium silicate, Силикат натрия
 Sodium sulfate, Sodium sulfate, Cульфат натрия
+Sodium thiosulfate, Sodium thiosulfate, Тиосульфат натрия
 Sucrose, Sucrose, Сахароза
+Sulfur, Sulfur, Сера
 Sulfuric acid, Sulfuric acid, Серная кислота
-Tartaric acid, Tartaric acid, Винная кислота
 Tannin, Tannin, Танин
-Tin (II) chloride, Tin (II) chloride, Хлорид олова (II)
+Tartaric acid, Tartaric acid, Винная кислота
 Thymol blue, Thymol blue, Тимоловый синий
+Tin (II) chloride, Tin (II) chloride, Хлорид олова (II)
 Urotropine, Urotropine, Уротропин
 Water, Water, Вода
 Zinc chloride, Zinc chloride, Хлорид цинка
 Zinc sulfate, Zinc sulfate, Сульфат цинка
+Zinc, Zinc, Цинк
 HTML_HEADER_EXPERIMENTS, Experiments, Эксперименты
 HTML_HEADER_REAGENTS, Reagents, Реагенты
 Oxidation numbers, Oxidation numbers, Степени окисления

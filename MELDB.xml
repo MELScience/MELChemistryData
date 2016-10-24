@@ -87,7 +87,7 @@
                 <z>-0.350675583</z>
                 <w>0.331958443</w>
                 <eulerAngles>
-                  <x>315.000031</x>
+                  <x>315</x>
                   <y>139</y>
                   <z>171</z>
                 </eulerAngles>
@@ -242,7 +242,7 @@
                 <w>-0.137745231</w>
                 <eulerAngles>
                   <x>340.000031</x>
-                  <y>223.000031</y>
+                  <y>223.000015</y>
                   <z>269</z>
                 </eulerAngles>
               </rotation>
@@ -490,7 +490,7 @@
                 <w>-0.0813957155</w>
                 <eulerAngles>
                   <x>34.9999962</x>
-                  <y>225.000015</y>
+                  <y>225</y>
                   <z>84.99999</z>
                 </eulerAngles>
               </rotation>
@@ -529,9 +529,9 @@
                 <z>-0.835326731</z>
                 <w>0.303056538</w>
                 <eulerAngles>
-                  <x>325.000031</x>
+                  <x>325</x>
                   <y>45.0000038</y>
-                  <z>205.000015</z>
+                  <z>205</z>
                 </eulerAngles>
               </rotation>
               <modification>standard</modification>
@@ -784,7 +784,7 @@
                 <w>0.2514148</w>
                 <eulerAngles>
                   <x>356</x>
-                  <y>209.000015</y>
+                  <y>209</y>
                   <z>25.9999981</z>
                 </eulerAngles>
               </rotation>
@@ -917,7 +917,7 @@
                 <w>-3.090862E-08</w>
                 <eulerAngles>
                   <x>90</x>
-                  <y>180.000015</y>
+                  <y>180</y>
                   <z>0</z>
                 </eulerAngles>
               </rotation>
@@ -937,7 +937,7 @@
                 <w>-3.090862E-08</w>
                 <eulerAngles>
                   <x>90</x>
-                  <y>180.000015</y>
+                  <y>180</y>
                   <z>0</z>
                 </eulerAngles>
               </rotation>
@@ -1054,7 +1054,7 @@
                 <z>-0.457944</z>
                 <w>-0.4522524</w>
                 <eulerAngles>
-                  <x>9.000003</x>
+                  <x>9.000002</x>
                   <y>260</y>
                   <z>80.0000153</z>
                 </eulerAngles>
@@ -1134,7 +1134,7 @@
                 <z>-0.457943946</z>
                 <w>-0.4522524</w>
                 <eulerAngles>
-                  <x>9.000003</x>
+                  <x>9.000002</x>
                   <y>260</y>
                   <z>80.00001</z>
                 </eulerAngles>
@@ -1169,6 +1169,20 @@
       <defaultView>BALLS</defaultView>
       <particleGuids>
         <guid>462d6642-19e0-43e9-8673-17d209b99288</guid>
+      </particleGuids>
+      <particlesLayout />
+      <crystalStructure />
+    </CompoundInfo>
+    <CompoundInfo>
+      <guid>979b83e3-5155-4c33-922e-24f6f5ea178f</guid>
+      <name>Carbon</name>
+      <formula>C</formula>
+      <tags>
+        <string>C</string>
+      </tags>
+      <defaultView>BALLS</defaultView>
+      <particleGuids>
+        <guid>821f8e9b-2a81-4b54-a960-92a4716a53c0</guid>
       </particleGuids>
       <particlesLayout />
       <crystalStructure />
@@ -1447,7 +1461,7 @@
                 <eulerAngles>
                   <x>328</x>
                   <y>28.0000019</y>
-                  <z>210.000031</z>
+                  <z>210.000015</z>
                 </eulerAngles>
               </rotation>
               <modification>standard</modification>
@@ -1466,7 +1480,7 @@
                 <w>0.293847442</w>
                 <eulerAngles>
                   <x>328</x>
-                  <y>208.000031</y>
+                  <y>208.000015</y>
                   <z>30.0000019</z>
                 </eulerAngles>
               </rotation>
@@ -1486,7 +1500,7 @@
                 <w>0.293847442</w>
                 <eulerAngles>
                   <x>328</x>
-                  <y>208.000031</y>
+                  <y>208.000015</y>
                   <z>30.0000019</z>
                 </eulerAngles>
               </rotation>
@@ -1507,7 +1521,7 @@
                 <eulerAngles>
                   <x>328</x>
                   <y>28.0000019</y>
-                  <z>210.000031</z>
+                  <z>210.000015</z>
                 </eulerAngles>
               </rotation>
               <modification>standard</modification>
@@ -1644,7 +1658,7 @@
                 <w>-0.236554772</w>
                 <eulerAngles>
                   <x>9.999998</x>
-                  <y>224.000031</y>
+                  <y>224.000015</y>
                   <z>79</z>
                 </eulerAngles>
               </rotation>
@@ -1789,7 +1803,7 @@ Copper (II) sulfate pentahydrate
                 <eulerAngles>
                   <x>55.0000038</x>
                   <y>155</y>
-                  <z>285.000031</z>
+                  <z>285</z>
                 </eulerAngles>
               </rotation>
               <modification>standard</modification>
@@ -1807,7 +1821,7 @@ Copper (II) sulfate pentahydrate
                 <z>-0.7980519</z>
                 <w>-0.256715655</w>
                 <eulerAngles>
-                  <x>55.0000267</x>
+                  <x>55.0000229</x>
                   <y>315</y>
                   <z>120.000008</z>
                 </eulerAngles>
@@ -1828,7 +1842,7 @@ Copper (II) sulfate pentahydrate
                 <w>0.465456456</w>
                 <eulerAngles>
                   <x>20.0000057</x>
-                  <y>245.000015</y>
+                  <y>245</y>
                   <z>265</z>
                 </eulerAngles>
               </rotation>
@@ -1848,8 +1862,8 @@ Copper (II) sulfate pentahydrate
                 <w>0.5603075</w>
                 <eulerAngles>
                   <x>70.00002</x>
-                  <y>240.000015</y>
-                  <z>200</z>
+                  <y>240</y>
+                  <z>199.999985</z>
                 </eulerAngles>
               </rotation>
               <modification>hydrate</modification>
@@ -1868,7 +1882,7 @@ Copper (II) sulfate pentahydrate
                 <w>0.3345174</w>
                 <eulerAngles>
                   <x>50.00001</x>
-                  <y>215.000015</y>
+                  <y>215</y>
                   <z>155</z>
                 </eulerAngles>
               </rotation>
@@ -1889,7 +1903,7 @@ Copper (II) sulfate pentahydrate
                 <eulerAngles>
                   <x>354.999969</x>
                   <y>39.9999924</y>
-                  <z>235.000015</z>
+                  <z>235</z>
                 </eulerAngles>
               </rotation>
               <modification>hydrate</modification>
@@ -1928,8 +1942,8 @@ Copper (II) sulfate pentahydrate
                 <w>0.130029544</w>
                 <eulerAngles>
                   <x>15.0000076</x>
-                  <y>180.000015</y>
-                  <z>190.000015</z>
+                  <y>180</y>
+                  <z>190</z>
                 </eulerAngles>
               </rotation>
               <modification>hydrate</modification>
@@ -1949,7 +1963,7 @@ Copper (II) sulfate pentahydrate
                 <eulerAngles>
                   <x>50.00001</x>
                   <y>115.000008</y>
-                  <z>345</z>
+                  <z>344.999969</z>
                 </eulerAngles>
               </rotation>
               <modification>hydrate</modification>
@@ -1987,9 +2001,9 @@ Copper (II) sulfate pentahydrate
                 <z>0.2740059</z>
                 <w>0.130012959</w>
                 <eulerAngles>
-                  <x>325</x>
+                  <x>324.999969</x>
                   <y>175.000015</y>
-                  <z>325.000031</z>
+                  <z>325</z>
                 </eulerAngles>
               </rotation>
               <modification>hydrate</modification>
@@ -2017,6 +2031,20 @@ Copper (II) sulfate pentahydrate
           </lattice>
         </CrystalInfo>
       </crystalStructure>
+    </CompoundInfo>
+    <CompoundInfo>
+      <guid>979b83e3-5255-4c33-922e-24f6f5ea178f</guid>
+      <name>Copper</name>
+      <formula>Cu</formula>
+      <tags>
+        <string>Cu</string>
+      </tags>
+      <defaultView>BALLS</defaultView>
+      <particleGuids>
+        <guid>826f8e9b-2a81-4b54-a960-92a4716a53c0</guid>
+      </particleGuids>
+      <particlesLayout />
+      <crystalStructure />
     </CompoundInfo>
     <CompoundInfo>
       <guid>55a31adf-4c12-43cf-9baf-52404b90dbd0</guid>
@@ -2081,7 +2109,7 @@ Copper (II) sulfate pentahydrate
                 <w>0.807317138</w>
                 <eulerAngles>
                   <x>21.0000057</x>
-                  <y>71.0000153</y>
+                  <y>71.00001</y>
                   <z>13.0000019</z>
                 </eulerAngles>
               </rotation>
@@ -2321,7 +2349,7 @@ Copper (II) sulfate pentahydrate
                 <w>-0.315254122</w>
                 <eulerAngles>
                   <x>324</x>
-                  <y>296.000031</y>
+                  <y>296</y>
                   <z>248.000015</z>
                 </eulerAngles>
               </rotation>
@@ -2342,7 +2370,7 @@ Copper (II) sulfate pentahydrate
                 <eulerAngles>
                   <x>21.0000038</x>
                   <y>247</y>
-                  <z>9.000002</z>
+                  <z>9.000001</z>
                 </eulerAngles>
               </rotation>
               <modification>standard</modification>
@@ -2442,7 +2470,7 @@ Copper (II) sulfate pentahydrate
                 <eulerAngles>
                   <x>324</x>
                   <y>116.000015</y>
-                  <z>248.000015</z>
+                  <z>248</z>
                 </eulerAngles>
               </rotation>
               <modification>standard</modification>
@@ -2842,6 +2870,20 @@ Copper (II) sulfate pentahydrate
       <crystalStructure />
     </CompoundInfo>
     <CompoundInfo>
+      <guid>979b83e3-5355-4c33-922e-24f6f5ea178f</guid>
+      <name>Iron</name>
+      <formula>Fe</formula>
+      <tags>
+        <string>Fe</string>
+      </tags>
+      <defaultView>BALLS</defaultView>
+      <particleGuids>
+        <guid>825f8e9b-2a81-4b54-a960-92a4716a53c0</guid>
+      </particleGuids>
+      <particlesLayout />
+      <crystalStructure />
+    </CompoundInfo>
+    <CompoundInfo>
       <guid>e70d7631-4b7a-46e6-8be8-07b8bcaf2fe2</guid>
       <name>Lactose</name>
       <formula>C&lt;sub&gt;12&lt;/sub&gt;H&lt;sub&gt;22&lt;/sub&gt;O&lt;sub&gt;11&lt;/sub&gt;</formula>
@@ -2894,6 +2936,20 @@ Copper (II) sulfate pentahydrate
       <particleGuids>
         <guid>53e7547d-7078-48ec-9114-551010961906</guid>
         <guid>6e66df29-5848-409c-ad91-be3455e60238</guid>
+      </particleGuids>
+      <particlesLayout />
+      <crystalStructure />
+    </CompoundInfo>
+    <CompoundInfo>
+      <guid>979b83e3-5455-4c33-922e-24f6f5ea178f</guid>
+      <name>Magnesium</name>
+      <formula>Mg</formula>
+      <tags>
+        <string>Mg</string>
+      </tags>
+      <defaultView>BALLS</defaultView>
+      <particleGuids>
+        <guid>824f8e9b-2a81-4b54-a960-92a4716a53c0</guid>
       </particleGuids>
       <particlesLayout />
       <crystalStructure />
@@ -3838,6 +3894,20 @@ Copper (II) sulfate pentahydrate
       </crystalStructure>
     </CompoundInfo>
     <CompoundInfo>
+      <guid>979b83e3-5555-4c33-922e-24f6f5ea178f</guid>
+      <name>Sulfur</name>
+      <formula>S</formula>
+      <tags>
+        <string>S</string>
+      </tags>
+      <defaultView>BALLS</defaultView>
+      <particleGuids>
+        <guid>823f8e9b-2a81-4b54-a960-92a4716a53c0</guid>
+      </particleGuids>
+      <particlesLayout />
+      <crystalStructure />
+    </CompoundInfo>
+    <CompoundInfo>
       <guid>7589c7b8-c3d4-435a-9b3a-95b56733e51b</guid>
       <name>Sulfuric acid</name>
       <formula>H&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt;</formula>
@@ -3915,7 +3985,7 @@ Tartaric acid
                 <eulerAngles>
                   <x>30.0000019</x>
                   <y>135</y>
-                  <z>240.000015</z>
+                  <z>240</z>
                 </eulerAngles>
               </rotation>
               <modification>standard</modification>
@@ -3934,7 +4004,7 @@ Tartaric acid
                 <w>0.439679742</w>
                 <eulerAngles>
                   <x>330</x>
-                  <y>225.000015</y>
+                  <y>225</y>
                   <z>60.0000038</z>
                 </eulerAngles>
               </rotation>
@@ -3954,8 +4024,8 @@ Tartaric acid
                 <w>0.531975746</w>
                 <eulerAngles>
                   <x>29.9999981</x>
-                  <y>315.000031</y>
-                  <z>240.000015</z>
+                  <y>315</y>
+                  <z>240</z>
                 </eulerAngles>
               </rotation>
               <modification>standard</modification>
@@ -4156,7 +4226,7 @@ Tartaric acid
                 <eulerAngles>
                   <x>33</x>
                   <y>151</y>
-                  <z>245.000015</z>
+                  <z>245</z>
                 </eulerAngles>
               </rotation>
               <modification>standard</modification>
@@ -4176,7 +4246,7 @@ Tartaric acid
                 <eulerAngles>
                   <x>1.003184E-05</x>
                   <y>65.00001</y>
-                  <z>187.000031</z>
+                  <z>187.000015</z>
                 </eulerAngles>
               </rotation>
               <modification>standard</modification>
@@ -4195,7 +4265,7 @@ Tartaric acid
                 <w>0.204718918</w>
                 <eulerAngles>
                   <x>42.0000153</x>
-                  <y>184.000031</y>
+                  <y>184.000015</y>
                   <z>301</z>
                 </eulerAngles>
               </rotation>
@@ -4236,7 +4306,7 @@ Tartaric acid
                 <eulerAngles>
                   <x>317</x>
                   <y>294</y>
-                  <z>269.000031</z>
+                  <z>269</z>
                 </eulerAngles>
               </rotation>
               <modification>standard</modification>
@@ -4254,9 +4324,9 @@ Tartaric acid
                 <z>-0.6838854</z>
                 <w>0.445325255</w>
                 <eulerAngles>
-                  <x>297</x>
+                  <x>296.999969</x>
                   <y>42.9999962</y>
-                  <z>219.000015</z>
+                  <z>219</z>
                 </eulerAngles>
               </rotation>
               <modification>standard</modification>
@@ -4275,7 +4345,7 @@ Tartaric acid
                 <w>0.3502131</w>
                 <eulerAngles>
                   <x>327</x>
-                  <y>209.000031</y>
+                  <y>209.000015</y>
                   <z>65.0000153</z>
                 </eulerAngles>
               </rotation>
@@ -4295,7 +4365,7 @@ Tartaric acid
                 <w>-0.841818452</w>
                 <eulerAngles>
                   <x>-8.53773656E-07</x>
-                  <y>295.000031</y>
+                  <y>295</y>
                   <z>7.00000048</z>
                 </eulerAngles>
               </rotation>
@@ -4332,6 +4402,20 @@ Tartaric acid
       <particleGuids>
         <guid>2611ff55-ee72-425a-8855-ee45e5ec27c7</guid>
         <guid>6e66df29-5848-409c-ad91-be3455e60238</guid>
+      </particleGuids>
+      <particlesLayout />
+      <crystalStructure />
+    </CompoundInfo>
+    <CompoundInfo>
+      <guid>979b83e3-5655-4c33-922e-24f6f5ea178f</guid>
+      <name>Zinc</name>
+      <formula>Zn</formula>
+      <tags>
+        <string>Zn</string>
+      </tags>
+      <defaultView>BALLS</defaultView>
+      <particleGuids>
+        <guid>822f8e9b-2a81-4b54-a960-92a4716a53c0</guid>
       </particleGuids>
       <particlesLayout />
       <crystalStructure />
@@ -4524,6 +4608,38 @@ Tartaric acid
       </rotationForFlatView>
     </ParticleInfo>
     <ParticleInfo>
+      <guid>33cf4b98-4395-44c4-93fa-827d9fe6bd97</guid>
+      <name>Cl (-)</name>
+      <formula>Cl</formula>
+      <tags />
+      <atoms>
+        <AtomInfo>
+          <atomNumber>1</atomNumber>
+          <atomCharge>-1</atomCharge>
+          <element>Cl</element>
+          <position>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+          </position>
+          <flatPosition>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+          </flatPosition>
+        </AtomInfo>
+      </atoms>
+      <bonds />
+      <charge>-1</charge>
+      <hasFlatView>true</hasFlatView>
+      <isOrganic>false</isOrganic>
+      <rotationForFlatView>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </rotationForFlatView>
+    </ParticleInfo>
+    <ParticleInfo>
       <guid>c753751a-d583-4a56-a3aa-06ce5e200cec</guid>
       <name>CN (-)</name>
       <formula>CN</formula>
@@ -4665,38 +4781,6 @@ Tartaric acid
       <isOrganic>false</isOrganic>
       <rotationForFlatView>
         <x>10</x>
-        <y>0</y>
-        <z>0</z>
-      </rotationForFlatView>
-    </ParticleInfo>
-    <ParticleInfo>
-      <guid>33cf4b98-4395-44c4-93fa-827d9fe6bd97</guid>
-      <name>Cl (-)</name>
-      <formula>Cl</formula>
-      <tags />
-      <atoms>
-        <AtomInfo>
-          <atomNumber>1</atomNumber>
-          <atomCharge>-1</atomCharge>
-          <element>Cl</element>
-          <position>
-            <x>0</x>
-            <y>0</y>
-            <z>0</z>
-          </position>
-          <flatPosition>
-            <x>0</x>
-            <y>0</y>
-            <z>0</z>
-          </flatPosition>
-        </AtomInfo>
-      </atoms>
-      <bonds />
-      <charge>-1</charge>
-      <hasFlatView>true</hasFlatView>
-      <isOrganic>false</isOrganic>
-      <rotationForFlatView>
-        <x>0</x>
         <y>0</y>
         <z>0</z>
       </rotationForFlatView>
@@ -8064,6 +8148,99 @@ Tartaric acid
       </rotationForFlatView>
     </ParticleInfo>
     <ParticleInfo>
+      <guid>2fe61b05-85e8-40de-8a0e-6f2bcd7d2b93</guid>
+      <name>SiO3 (2-)</name>
+      <formula>SiO3</formula>
+      <tags />
+      <atoms>
+        <AtomInfo>
+          <atomNumber>1</atomNumber>
+          <atomCharge>-1</atomCharge>
+          <element>O</element>
+          <position>
+            <x>1.0581733</x>
+            <y>0.7341</y>
+            <z>-2E-05</z>
+          </position>
+          <flatPosition>
+            <x>0.865999937</x>
+            <y>0.5</y>
+            <z>0</z>
+          </flatPosition>
+        </AtomInfo>
+        <AtomInfo>
+          <atomNumber>2</atomNumber>
+          <atomCharge>-1</atomCharge>
+          <element>O</element>
+          <position>
+            <x>0.106773324</x>
+            <y>-1.2832</y>
+            <z>-2E-05</z>
+          </position>
+          <flatPosition>
+            <x>-2.38418579E-07</x>
+            <y>-1</y>
+            <z>0</z>
+          </flatPosition>
+        </AtomInfo>
+        <AtomInfo>
+          <atomNumber>3</atomNumber>
+          <atomCharge>0</atomCharge>
+          <element>O</element>
+          <position>
+            <x>-1.16492665</x>
+            <y>0.5491</y>
+            <z>-2E-05</z>
+          </position>
+          <flatPosition>
+            <x>-0.8660002</x>
+            <y>0.5</y>
+            <z>0</z>
+          </flatPosition>
+        </AtomInfo>
+        <AtomInfo>
+          <atomNumber>4</atomNumber>
+          <atomCharge>0</atomCharge>
+          <element>Si</element>
+          <position>
+            <x>-2.66710922E-05</x>
+            <y>1.58945728E-08</y>
+            <z>8E-05</z>
+          </position>
+          <flatPosition>
+            <x>-2.38418579E-07</x>
+            <y>0</y>
+            <z>0</z>
+          </flatPosition>
+        </AtomInfo>
+      </atoms>
+      <bonds>
+        <BondInfo>
+          <atom1>1</atom1>
+          <atom2>4</atom2>
+          <bondType>SINGLE</bondType>
+        </BondInfo>
+        <BondInfo>
+          <atom1>2</atom1>
+          <atom2>4</atom2>
+          <bondType>SINGLE</bondType>
+        </BondInfo>
+        <BondInfo>
+          <atom1>3</atom1>
+          <atom2>4</atom2>
+          <bondType>DOUBLE</bondType>
+        </BondInfo>
+      </bonds>
+      <charge>-2</charge>
+      <hasFlatView>true</hasFlatView>
+      <isOrganic>false</isOrganic>
+      <rotationForFlatView>
+        <x>10</x>
+        <y>0</y>
+        <z>0</z>
+      </rotationForFlatView>
+    </ParticleInfo>
+    <ParticleInfo>
       <guid>6e66df29-5848-409c-ad91-be3455e60238</guid>
       <name>SO4 (2-)</name>
       <formula>SO&lt;sub&gt;4&lt;/sub&gt;</formula>
@@ -8172,99 +8349,6 @@ Tartaric acid
       <isOrganic>false</isOrganic>
       <rotationForFlatView>
         <x>30</x>
-        <y>0</y>
-        <z>0</z>
-      </rotationForFlatView>
-    </ParticleInfo>
-    <ParticleInfo>
-      <guid>2fe61b05-85e8-40de-8a0e-6f2bcd7d2b93</guid>
-      <name>SiO3 (2-)</name>
-      <formula>SiO3</formula>
-      <tags />
-      <atoms>
-        <AtomInfo>
-          <atomNumber>1</atomNumber>
-          <atomCharge>-1</atomCharge>
-          <element>O</element>
-          <position>
-            <x>1.0581733</x>
-            <y>0.7341</y>
-            <z>-2E-05</z>
-          </position>
-          <flatPosition>
-            <x>0.865999937</x>
-            <y>0.5</y>
-            <z>0</z>
-          </flatPosition>
-        </AtomInfo>
-        <AtomInfo>
-          <atomNumber>2</atomNumber>
-          <atomCharge>-1</atomCharge>
-          <element>O</element>
-          <position>
-            <x>0.106773324</x>
-            <y>-1.2832</y>
-            <z>-2E-05</z>
-          </position>
-          <flatPosition>
-            <x>-2.38418579E-07</x>
-            <y>-1</y>
-            <z>0</z>
-          </flatPosition>
-        </AtomInfo>
-        <AtomInfo>
-          <atomNumber>3</atomNumber>
-          <atomCharge>0</atomCharge>
-          <element>O</element>
-          <position>
-            <x>-1.16492665</x>
-            <y>0.5491</y>
-            <z>-2E-05</z>
-          </position>
-          <flatPosition>
-            <x>-0.8660002</x>
-            <y>0.5</y>
-            <z>0</z>
-          </flatPosition>
-        </AtomInfo>
-        <AtomInfo>
-          <atomNumber>4</atomNumber>
-          <atomCharge>0</atomCharge>
-          <element>Si</element>
-          <position>
-            <x>-2.66710922E-05</x>
-            <y>1.58945728E-08</y>
-            <z>8E-05</z>
-          </position>
-          <flatPosition>
-            <x>-2.38418579E-07</x>
-            <y>0</y>
-            <z>0</z>
-          </flatPosition>
-        </AtomInfo>
-      </atoms>
-      <bonds>
-        <BondInfo>
-          <atom1>1</atom1>
-          <atom2>4</atom2>
-          <bondType>SINGLE</bondType>
-        </BondInfo>
-        <BondInfo>
-          <atom1>2</atom1>
-          <atom2>4</atom2>
-          <bondType>SINGLE</bondType>
-        </BondInfo>
-        <BondInfo>
-          <atom1>3</atom1>
-          <atom2>4</atom2>
-          <bondType>DOUBLE</bondType>
-        </BondInfo>
-      </bonds>
-      <charge>-2</charge>
-      <hasFlatView>true</hasFlatView>
-      <isOrganic>false</isOrganic>
-      <rotationForFlatView>
-        <x>10</x>
         <y>0</y>
         <z>0</z>
       </rotationForFlatView>
@@ -9444,6 +9528,38 @@ Tartaric acid
       </rotationForFlatView>
     </ParticleInfo>
     <ParticleInfo>
+      <guid>1c4b217d-67fd-4e56-91b5-4eec52810a43</guid>
+      <name>Na (+)</name>
+      <formula>Na</formula>
+      <tags />
+      <atoms>
+        <AtomInfo>
+          <atomNumber>1</atomNumber>
+          <atomCharge>1</atomCharge>
+          <element>Na</element>
+          <position>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+          </position>
+          <flatPosition>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+          </flatPosition>
+        </AtomInfo>
+      </atoms>
+      <bonds />
+      <charge>1</charge>
+      <hasFlatView>true</hasFlatView>
+      <isOrganic>false</isOrganic>
+      <rotationForFlatView>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </rotationForFlatView>
+    </ParticleInfo>
+    <ParticleInfo>
       <guid>3bda91f3-931b-48d4-86df-b98ebbde69ca</guid>
       <name>NH4 (+)</name>
       <formula>NH&lt;sub&gt;4&lt;/sub&gt;</formula>
@@ -9553,38 +9669,6 @@ Tartaric acid
       <rotationForFlatView>
         <x>30</x>
         <y>-60</y>
-        <z>0</z>
-      </rotationForFlatView>
-    </ParticleInfo>
-    <ParticleInfo>
-      <guid>1c4b217d-67fd-4e56-91b5-4eec52810a43</guid>
-      <name>Na (+)</name>
-      <formula>Na</formula>
-      <tags />
-      <atoms>
-        <AtomInfo>
-          <atomNumber>1</atomNumber>
-          <atomCharge>1</atomCharge>
-          <element>Na</element>
-          <position>
-            <x>0</x>
-            <y>0</y>
-            <z>0</z>
-          </position>
-          <flatPosition>
-            <x>0</x>
-            <y>0</y>
-            <z>0</z>
-          </flatPosition>
-        </AtomInfo>
-      </atoms>
-      <bonds />
-      <charge>1</charge>
-      <hasFlatView>true</hasFlatView>
-      <isOrganic>false</isOrganic>
-      <rotationForFlatView>
-        <x>0</x>
-        <y>0</y>
         <z>0</z>
       </rotationForFlatView>
     </ParticleInfo>
@@ -11049,6 +11133,40 @@ Tartaric acid
       </rotationForFlatView>
     </ParticleInfo>
     <ParticleInfo>
+      <guid>821f8e9b-2a81-4b54-a960-92a4716a53c0</guid>
+      <name>Carbon</name>
+      <formula>C</formula>
+      <tags>
+        <string>Carbon, C</string>
+      </tags>
+      <atoms>
+        <AtomInfo>
+          <atomNumber>1</atomNumber>
+          <atomCharge>0</atomCharge>
+          <element>C</element>
+          <position>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+          </position>
+          <flatPosition>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+          </flatPosition>
+        </AtomInfo>
+      </atoms>
+      <bonds />
+      <charge>0</charge>
+      <hasFlatView>true</hasFlatView>
+      <isOrganic>false</isOrganic>
+      <rotationForFlatView>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </rotationForFlatView>
+    </ParticleInfo>
+    <ParticleInfo>
       <guid>8e0a2269-fe76-4b63-a3dd-9c9c34a2b46e</guid>
       <name>Chlorine</name>
       <formula>Cl&lt;sub&gt;2&lt;/sub&gt;</formula>
@@ -11584,6 +11702,40 @@ Tartaric acid
           <bondType>DOUBLE</bondType>
         </BondInfo>
       </bonds>
+      <charge>0</charge>
+      <hasFlatView>true</hasFlatView>
+      <isOrganic>false</isOrganic>
+      <rotationForFlatView>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </rotationForFlatView>
+    </ParticleInfo>
+    <ParticleInfo>
+      <guid>826f8e9b-2a81-4b54-a960-92a4716a53c0</guid>
+      <name>Copper</name>
+      <formula>Cu</formula>
+      <tags>
+        <string>Copper, Cuprum</string>
+      </tags>
+      <atoms>
+        <AtomInfo>
+          <atomNumber>1</atomNumber>
+          <atomCharge>0</atomCharge>
+          <element>Cu</element>
+          <position>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+          </position>
+          <flatPosition>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+          </flatPosition>
+        </AtomInfo>
+      </atoms>
+      <bonds />
       <charge>0</charge>
       <hasFlatView>true</hasFlatView>
       <isOrganic>false</isOrganic>
@@ -14044,6 +14196,40 @@ Tartaric acid
       </rotationForFlatView>
     </ParticleInfo>
     <ParticleInfo>
+      <guid>825f8e9b-2a81-4b54-a960-92a4716a53c0</guid>
+      <name>Iron</name>
+      <formula>Fe</formula>
+      <tags>
+        <string>Iron, Fe, Ferrum</string>
+      </tags>
+      <atoms>
+        <AtomInfo>
+          <atomNumber>1</atomNumber>
+          <atomCharge>0</atomCharge>
+          <element>Fe</element>
+          <position>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+          </position>
+          <flatPosition>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+          </flatPosition>
+        </AtomInfo>
+      </atoms>
+      <bonds />
+      <charge>0</charge>
+      <hasFlatView>true</hasFlatView>
+      <isOrganic>false</isOrganic>
+      <rotationForFlatView>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </rotationForFlatView>
+    </ParticleInfo>
+    <ParticleInfo>
       <guid>e69425e5-17c8-4eb9-83f8-ebcaca4ba63c</guid>
       <name>Lactose</name>
       <formula>C&lt;sub&gt;12&lt;/sub&gt;H&lt;sub&gt;22&lt;/sub&gt;O&lt;sub&gt;11&lt;/sub&gt;</formula>
@@ -15439,6 +15625,40 @@ Tartaric acid
           <bondType>DOUBLE</bondType>
         </BondInfo>
       </bonds>
+      <charge>0</charge>
+      <hasFlatView>true</hasFlatView>
+      <isOrganic>false</isOrganic>
+      <rotationForFlatView>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </rotationForFlatView>
+    </ParticleInfo>
+    <ParticleInfo>
+      <guid>824f8e9b-2a81-4b54-a960-92a4716a53c0</guid>
+      <name>Magnesium</name>
+      <formula>Mg</formula>
+      <tags>
+        <string>Magnesium, Mg</string>
+      </tags>
+      <atoms>
+        <AtomInfo>
+          <atomNumber>1</atomNumber>
+          <atomCharge>0</atomCharge>
+          <element>Mg</element>
+          <position>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+          </position>
+          <flatPosition>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+          </flatPosition>
+        </AtomInfo>
+      </atoms>
+      <bonds />
       <charge>0</charge>
       <hasFlatView>true</hasFlatView>
       <isOrganic>false</isOrganic>
@@ -18286,6 +18506,40 @@ Tartaric acid
         <x>0</x>
         <y>300</y>
         <z>270</z>
+      </rotationForFlatView>
+    </ParticleInfo>
+    <ParticleInfo>
+      <guid>823f8e9b-2a81-4b54-a960-92a4716a53c0</guid>
+      <name>Sulfur</name>
+      <formula>S</formula>
+      <tags>
+        <string>Sulfur, S</string>
+      </tags>
+      <atoms>
+        <AtomInfo>
+          <atomNumber>1</atomNumber>
+          <atomCharge>0</atomCharge>
+          <element>S</element>
+          <position>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+          </position>
+          <flatPosition>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+          </flatPosition>
+        </AtomInfo>
+      </atoms>
+      <bonds />
+      <charge>0</charge>
+      <hasFlatView>true</hasFlatView>
+      <isOrganic>false</isOrganic>
+      <rotationForFlatView>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
       </rotationForFlatView>
     </ParticleInfo>
     <ParticleInfo>
@@ -22031,6 +22285,40 @@ Tartaric acid
         <x>0</x>
         <y>-180</y>
         <z>60</z>
+      </rotationForFlatView>
+    </ParticleInfo>
+    <ParticleInfo>
+      <guid>822f8e9b-2a81-4b54-a960-92a4716a53c0</guid>
+      <name>Zinc</name>
+      <formula>Zn</formula>
+      <tags>
+        <string>Zinc, Z</string>
+      </tags>
+      <atoms>
+        <AtomInfo>
+          <atomNumber>1</atomNumber>
+          <atomCharge>0</atomCharge>
+          <element>Zn</element>
+          <position>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+          </position>
+          <flatPosition>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+          </flatPosition>
+        </AtomInfo>
+      </atoms>
+      <bonds />
+      <charge>0</charge>
+      <hasFlatView>true</hasFlatView>
+      <isOrganic>false</isOrganic>
+      <rotationForFlatView>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
       </rotationForFlatView>
     </ParticleInfo>
   </particles>
